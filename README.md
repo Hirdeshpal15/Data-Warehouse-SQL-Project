@@ -4,6 +4,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 🏗️ **Data Architecture**:
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
+![Screenshot 2025-04-07 at 1 35 56 AM](https://github.com/user-attachments/assets/f4b1ed26-15a3-4291-98b3-2102593969de)
 
 
 
